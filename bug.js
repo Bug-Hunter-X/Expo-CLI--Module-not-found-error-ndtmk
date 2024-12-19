@@ -1,0 +1,1 @@
+This error typically occurs when you try to import a module that doesn't exist or is located in a place where Expo's module resolution system can't find it.  This can happen due to typos in the import path, incorrect file structure, or issues with how you've configured your project.
